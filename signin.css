@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.amazonlogo{
+    height: 50px;
+    width: 120px;
+    background-image: url(Amazonlogo.png);
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}   
+.logobox{
+    display: flex;
+    justify-content: center;
+}
